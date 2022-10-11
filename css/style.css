@@ -12,17 +12,51 @@ header{
     background-color: white;
 }
 
-.container-lightgrey{
-    background-color: #F6F8F9;
-}
-
 section.logo-section img{
     vertical-align:top;
 }
 
 section.logo-section h1{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
     font-size: 3rem;
     display: inline-block;
 }
+
+.white-container{
+    margin: 3rem 13rem 3rem 13rem;
+}
+
+.button-section{
+    padding: 1rem 3rem 0.8rem 3rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: white;
+}
+
+.container-section{
+    padding: 2rem 3rem 2rem 3rem;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.title
+{
+    font-size: 1.7rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+
+hr{
+    color: #F6F8F9;
+    border: none;
+    background-color: #F6F8F9;
+}
+
+ul li{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
