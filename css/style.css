@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F6F8F9;
+}
+
+header{
+    padding: 20px;
+    background-color: white;
+}
+
+.container-lightgrey{
+    background-color: #F6F8F9;
+}
+
+section.logo-section img{
+    vertical-align:top;
+}
+
+section.logo-section h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 3rem;
+    display: inline-block;
+}
