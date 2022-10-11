@@ -34,11 +34,32 @@ section.logo-section h1{
     background-color: white;
 }
 
-.container-section{
-    padding: 2rem 3rem 2rem 3rem;
+.button-addtask{
+    background-color: #45ABEA;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.button-addsection{
+    background-color: white;
+    padding: 5px 10px;
+    color: lightgrey;
+    border-radius: 5px;
+    border: solid 1px lightgrey;
+
+}
+
+.container{
+    padding: 0rem 3rem 3rem 3rem;
     background-color: white;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+.container-section{
+    padding-top: 2rem;
 }
 
 .title
@@ -94,11 +115,11 @@ ul li{
     background-color: #45ABEA;
 }
 
-#q1-Goals{
+#q1-goals{
     background-color: #9C72E4;
 }
 
-#recruting{
+#recruiting{
     background-color: #64C0A9;
 }
 
@@ -107,7 +128,7 @@ ul li{
 }
 
 #website{
-    background-color: #F29E33;
+    background-color: #D863A1;
 }
 
 #sales{
